@@ -3,4 +3,4 @@ project(AlgorithmTravel)
 
 set(CMAKE_CXX_STANDARD 11)
 
-add_executable(AlgorithmTravel Luogu/2022.3.7/P3954.cpp)
+add_executable(AlgorithmTravel Luogu/2022.3.15/P2670.cpp)
